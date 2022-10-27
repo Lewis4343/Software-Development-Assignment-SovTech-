@@ -1,3 +1,12 @@
+Here is a SPA about why I want to do my work experience at SovTech. 
+This is SPA (single page application where I have created a small application describing myself and why I want to do my work placement at SovTech.
+This is a nice little website which is very basic however it could easily be built upon.
+You can see that simple text and images have been added to the document.
+
+The only way I know of starting the project is to go to the terminal and entering “npm start” or if you have already do it running “npm run build” but for some reason “npm run build wont work on my system quoting that I need to “The build folder is ready to be deployed. You may serve it with a static server:” and when I try to sever I get “cannot be loaded because running scripts is disabled on this system.”
+The goal of this project was to Create a static single page application using React. 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
